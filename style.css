@@ -137,6 +137,10 @@ font-family: 'Poppins', sans-serif;
   justify-content: space-between;
 }
 
+.card img{
+  margin-right: 1rem;
+}
+
 .progress{
   background: linear-gradient(to right top, 
  #36d1dc, #5b86e5); 
